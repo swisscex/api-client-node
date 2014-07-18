@@ -1,0 +1,7 @@
+{
+	"PUBLIC_KEY": "<YOUR_PUBLIC_KEY_HERE>", /* PUBLIC_KEY = apiKey */
+	"PRIVATE_KEY": "<YOUR_PRIVATE_KEY_HERE>",
+	"HOST": "http://api.swisscex.com/v2/",
+	"SOCKET_ENDPOINT": "https://stream.swisscex.com:444?apiKey=<YOUR_KEY_HERE>"
+	/* The parameter apiKey is only required when you want to receive execution reports on your orders */
+}
